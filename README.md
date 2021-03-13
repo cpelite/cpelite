@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cpelite
 - 👀 I’m interested in many, many different things.
 - 🌱 I’m currently learning how to use python again..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on - for the moment i am not looking to collaborate on any projects.
+- 📫 How to reach me - classified information. ;)
 
 <!---
 cpelite/cpelite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

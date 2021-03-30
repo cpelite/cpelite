@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm cpelite</h1>
 <h3 align="center">...learning Python 3 (again).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpelite" alt="cpelite" /></a> </p>
-
 - 🔭 I’m currently working on **some discord-bots for my hobby.**
 
 - 🌱 I’m currently learning **Django, Flask, Discord.py**
@@ -16,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpelite&show_icons=true&locale=en" alt="cpelite" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpelite&" alt="cpelite" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpelite" alt="cpelite" /></a> </p>

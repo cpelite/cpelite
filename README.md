@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a hobbyist developer from Austria who works on whatever comes to his mind.   
+I’m a hobbyist developer from Austria who works on whatever comes to his mind. At the current moment i'm learning C#.
   
 
 <br/>  
@@ -18,10 +18,10 @@ I’m a hobbyist developer from Austria who works on whatever comes to his mind.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Discord bots, and a small operating system.   
+- 🔭 I’m currently working on Discord bots, a small operating system (using CosmosOS) and a rudimentary shell. 
   
 
-- 🌱 I’m currently C# and COSMOS.  
+- 🌱 I’m currently using C# and COSMOS.  
   
 
 - ⚡ Fun fact: My code might be considered a crime against humanity, which is the reason why i have a few private repositories.  

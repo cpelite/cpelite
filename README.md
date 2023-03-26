@@ -8,6 +8,7 @@
 </div>
 
 ###
+<h2 align="center">Used languages and tools: </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />

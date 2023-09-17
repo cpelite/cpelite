@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Lynn from Austria<br><br>- 🔭 I’m working as a 2nd Level Supporter<br>- 📚 I'm currently learning C, C++ and Rust.<br>- ⚡ In my free time I like to play video games. I do enjoy coding aswell.</p>
+<p align="left">I'm Bene from Austria<br><br>- 🔭 I’m working as a 2nd Level Supporter<br>- 📚 I'm currently learning C, C++ and Rust.<br>- ⚡ In my free time I like to play video games. I do enjoy coding aswell.</p>
 
 ###
 
